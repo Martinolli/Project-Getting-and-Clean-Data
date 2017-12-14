@@ -21,6 +21,10 @@ The dataset includes the following files:
 
 - 'test/y_test.txt': Test labels.
 
+- 'subject_train.txt': Subjects performed train activities
+
+- 'subject_test.txt': Subjects performed tests activities
+
 ## The tasks requested were:
 
 - You should create one R script called run_analysis.R that does the following.
