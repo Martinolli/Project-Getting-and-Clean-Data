@@ -178,7 +178,7 @@ str(Activities)
 ```
 
 
-## 3 - Uses descriptive activity names to name the activities in the data set
+## 3 - Create a data set named "Data1" with subjects and associated activities
 
 ```{r warning=FALSE}
 
